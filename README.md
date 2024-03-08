@@ -11,9 +11,9 @@
 
 - 📫 Reach me at: **suryavijoykar13@gmail.com**
 
-- ⚡ Fun fact: **I laugh at my own jokes LOL**
-
 - 📝 Journal Publication: <a href='https://doi.org/10.1109/TRS.2023.3296900'>**Deep Learning-Based Track Prediction and Correction for a Radar Target**</a>
+
+- ⚡ Fun fact: **I laugh at my own jokes LOL**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
