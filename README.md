@@ -9,8 +9,6 @@
 
 - 💬 Ask me about **python, TNCs**
 
-- 📫 Reach me at: **suryavijoykar13@gmail.com**
-
 - 📝 Journal Publication: <a href='https://doi.org/10.1109/TRS.2023.3296900'>**Deep Learning-Based Track Prediction and Correction for a Radar Target**</a>
 
 - ⚡ Fun fact: **I laugh at my own jokes LOL**
