@@ -11,8 +11,6 @@
 
 - 📝 Journal Publication: <a href='https://doi.org/10.1109/TRS.2023.3296900'>**Deep Learning-Based Track Prediction and Correction for a Radar Target**</a>
 
-- ⚡ Fun fact: **I laugh at my own jokes LOL**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/suryavijoy-kar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suryavijoy-kar" height="30" width="40" /></a>
