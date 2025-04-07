@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suryavkar&label=Profile%20views&color=0e75b6&style=flat" alt="suryavkar" /> </p>
 
-- 🌱 I’m currently learning **Docker, Kubernetics, LLMs**
+- 🌱 I’m currently learning **Docker, Kubernetes, LLMs**
 
 - 💬 Ask me about **python, TNCs**
 
